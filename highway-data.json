@@ -1,0 +1,2343 @@
+{
+  "users": {
+    "pilot9028": {
+      "username": "Pilot9028",
+      "playerId": "HR-22FA6715",
+      "passwordHash": "3dc839381dffafff68f62adc79fc2595:7a8d47e5f9fa1e2e318d3dbe69ad54bde30a3f5fd10c02724ee2e8cfc38001764ee5d1ad9740dbfac336038a2efa352e254e39c599992e762fe9531cedbccdc9",
+      "save": {
+        "coins": 0,
+        "bestScore": 1200,
+        "totalDistance": 10,
+        "totalDodged": 2,
+        "totalNearMisses": 1,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 3400,
+          "highestWave": 7
+        }
+      },
+      "createdAt": "2026-09-04T08:22:17.357Z",
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "P",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      }
+    },
+    "zeeshangaming67": {
+      "username": "ZeeshanGaming67",
+      "playerId": "HR-61BFE953",
+      "passwordHash": "1aba51954f414b61c383f261bfb3bdce:7cb87dffbeb5c93d6b7d104aa87dc2e5390fc23fc65637db8dd6dae54e14e1984e30d2e6fad10927ecb86c79fcbf7520797cf74d35f0014f43159e331018c95e",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "createdAt": "2026-09-04T08:56:17.217Z",
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "Z",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      }
+    },
+    "rayan": {
+      "username": "Rayan",
+      "playerId": "HR-B4BAAD58",
+      "passwordHash": "b929f7394396f7aef70d1b823b6c7939:d28766027a4acd88407bbf5bdf78a867a6ee8b08ea6fa08272af226475dc26db8e3a6f6b24b6e7f0e83cc5d06b7043ae07450b61f97d49bb463a7d2c2b2198af",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "createdAt": "2026-09-05T09:25:17.171Z",
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "R",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      }
+    },
+    "rayan67": {
+      "username": "Rayan67",
+      "playerId": "HR-F0082420",
+      "passwordHash": "15a16b13c3c98aeb2d7dc36e3df71cd6:070d59cd99345400a25705fe7e2b8bcddef911b98b6042fba4f056151b7fe07a178d46daa90469c6f32ab1c354c1e994f42343ee3895b2ec855796f6fddf7c7f",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "createdAt": "2026-09-05T09:27:24.086Z",
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "R",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      }
+    },
+    "zsgaming67": {
+      "username": "zsgaming67",
+      "playerId": "HR-E327D8AC",
+      "passwordHash": "af0cca4bb20e8ee94c0b5f6e5aa1fafe:58cde00661ade93d3103985fd3b563d3c0b06a629906f7f0413419385a90a8cf8975161830173a7d485e5df6ac3bbf01fbd031402f2e220c54268ef9e58e8305",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "createdAt": "2026-09-08T09:23:29.331Z",
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "Z",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      }
+    },
+    "zsgaming": {
+      "username": "zsgaming",
+      "playerId": "HR-F5E255A1",
+      "passwordHash": "62ca2a588b11e9025f6d6a4128e403ed:ea1f5fae320d07e72d6d37c25ae4739da247f2c206f75b229d4a707cfc042796a436333cd1bce803e8de74a4916b4c66ecc52c8b1e1987a05f8ba1fe2c96a040",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 3
+        }
+      },
+      "createdAt": "2026-09-08T09:54:17.298Z",
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "Z",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      }
+    },
+    "testuser123": {
+      "username": "TestUser123",
+      "playerId": "HR-CA3C6DAD",
+      "passwordHash": "82fe5f94b3b8f1399b0821aadc5aea7a:fbeb3e8dd60b7098bd480b6fb5a0c9daa0c5b8104226262c04ae5f792c2248afc34b48e9ff7a587068264f0518691f482f059e9ad684321f120996aeb208faa0",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "T",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:06:07.016Z"
+    },
+    "usera_authtest": {
+      "username": "UserA_AuthTest",
+      "playerId": "HR-552FE027",
+      "passwordHash": "679c04b464af4037dc8b8108879fbf5f:46a14714bcacde7d5fdbfbefebe60104147f670559fc3010907b2eaf1933c19e8f859d06f9133c41c59864e44a55f24055cc00b29a2b028e00357769b3724d84",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "U",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:06:28.193Z"
+    },
+    "userb_authtest": {
+      "username": "UserB_AuthTest",
+      "playerId": "HR-7133C091",
+      "passwordHash": "917a1181ea04dd315b582e826835fca4:290edd105a603f8109efdc77339c6b668e377445027d9a31a7e449a5fd9a7af3da9314397423a29a02a209f425d23c62100a367808742e30675c4fe378a53fff",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "U",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:06:28.355Z"
+    },
+    "logoutprobeuser": {
+      "username": "LogoutProbeUser",
+      "playerId": "HR-35BA0D64",
+      "passwordHash": "02ab09f9ed7a0dd805a4b6f522d4f6b7:a0dae7553123c9c66f28f076f9aece7a0ee9291380bcf25a058ebe4ea6371fb67c2d69bbc616f7241089cfa5be1d7f2175ef8da069e6d3b700dd1b93e2778e73",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "L",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:08:16.978Z"
+    },
+    "guesttransferuser": {
+      "username": "GuestTransferUser",
+      "playerId": "HR-EDF81DB5",
+      "passwordHash": "6c71c4058c3a26d48c998ddf1ae628cb:59541123749d1f7608a5eaf21174de27d2eae9846d3b9177f17ab3a435bf93c093a54522520f000d5311c6c0ba83bd0ca357814e9b92536a8e3311c3b79ed82a",
+      "save": {
+        "coins": 42,
+        "bestScore": 1200,
+        "totalDistance": 500,
+        "totalDodged": 8,
+        "totalNearMisses": 2,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [
+          1,
+          2
+        ],
+        "unlockedAchievements": [
+          "first-win"
+        ],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 4
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 300,
+          "highestWave": 4
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "G",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:08:41.785Z"
+    },
+    "alpha260909155130": {
+      "username": "Alpha260909155130",
+      "playerId": "HR-EFCC8D10",
+      "passwordHash": "8f891884431684b1f1bc25700b4fa454:5bc0574412ab2db5e98bb7cee5729e0b74fc08ed4eb7478f6b23fb873b677bad6088c52490310b80740cad45a305b5770b1b30e87927b8adbf7a98f9c1ef4a2f",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "A",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:21:31.101Z"
+    },
+    "bravo260909155130": {
+      "username": "Bravo260909155130",
+      "playerId": "HR-CB40E5B4",
+      "passwordHash": "301289530befe29e50744561def2c153:7b60eefcdca5427458df812a956eae5bc7931a0bdba32b781528fdba8c7bc3b6a35618291342ecea6dd793ee06455709a85eb69d8fdd4fb2dddd1fbd05811a2c",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "B",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:21:31.969Z"
+    },
+    "debuguser01": {
+      "username": "DebugUser01",
+      "playerId": "HR-BAAE285A",
+      "passwordHash": "cc5b467733df452a3d5e6bdeac87f126:5f3a1f787a874fd0054095464950c5987be1f74febd94c546970a01bcd822db081bff8dbf2116400577c59dcd521973511ffbcef093198dfc3ae838ef3a77c2b",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "D",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:22:10.777Z"
+    },
+    "alpha_260909155256": {
+      "username": "Alpha_260909155256",
+      "playerId": "HR-5AA79E77",
+      "passwordHash": "d3719b0349fc36e60c0cc5bca8315100:9f1ae79ee8fd0528719c34aa8317ee6064dea8bbeebee5bae0cee49756726b5397743f70dcf214fa69eb7ca5b13502eaa0e528d8e29e54e57be12a7ba0467111",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "A",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:22:57.917Z"
+    },
+    "bravo_260909155256": {
+      "username": "Bravo_260909155256",
+      "playerId": "HR-C45336D0",
+      "passwordHash": "14aa83a0a49155c56c5b4689f0180dd7:2485ff7a524ee62867ab35bea479806ebb7b87c0e7d0a67d3221dd956940ba5516a227f79362a20e257383b995ca9da1f2163461d9fa146f9eef9718820c79ec",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "B",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:22:58.906Z"
+    },
+    "guesttesttransfer2": {
+      "username": "GuestTestTransfer2",
+      "playerId": "HR-833A4708",
+      "passwordHash": "a6cf076748c2ee950bdf8556309254e9:23f691bc5cc8e979e3bb676bfb0dcfad9e609da0c3bdf3f8d026cafff6d381ffa5cbb5de65e456b7d5b75123332d863d3c8c6b403b54feca882fccb1260862ed",
+      "save": {
+        "coins": 42,
+        "bestScore": 1200,
+        "totalDistance": 500,
+        "totalDodged": 8,
+        "totalNearMisses": 2,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [
+          1,
+          2
+        ],
+        "unlockedAchievements": [
+          "first-win"
+        ],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 4
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 300,
+          "highestWave": 4
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "G",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:23:40.749Z"
+    },
+    "guestcasesimple": {
+      "username": "GuestCaseSimple",
+      "playerId": "HR-2EE36AD5",
+      "passwordHash": "5ed803ff366f8de06bfea41c36689859:686004cd81701279266f97312ab8b4475848f9e9923c098173143f693f806615be0ceb5479e774fa45fadc36a976e558a01b6ceac735e08aed4fbf07e027f75e",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "G",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:24:29.607Z"
+    },
+    "guestcasespace": {
+      "username": "GuestCaseSpace",
+      "playerId": "HR-ACCAB8ED",
+      "passwordHash": "40f9f6d159176e041a0134f6721938a6:18013355e70ed73b8daf0bf04edab7c9919f0026d183129121905d7b8b95a61a0204c389658612379cf558a56fed887dd10d0ef7a5c95eba9aff1781163f4c73",
+      "save": {
+        "coins": 0,
+        "bestScore": 1200,
+        "totalDistance": 500,
+        "totalDodged": 8,
+        "totalNearMisses": 2,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [
+          1,
+          2
+        ],
+        "unlockedAchievements": [
+          "first-win"
+        ],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 300,
+          "highestWave": 4
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "G",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:24:29.681Z"
+    },
+    "guestcasefull": {
+      "username": "GuestCaseFull",
+      "playerId": "HR-00A267EF",
+      "passwordHash": "bab5d99a81f2fccbf7c1d0e928312f07:8b575e04f1ba9fe971e14d941006de946a56d066a8e6bd03eb98f4f7fc5bf9e9d4b4ac2cfe84fdaf7712a6c8b37f887d881685236f60bc032f2f8c1834966838",
+      "save": {
+        "coins": 42,
+        "bestScore": 1200,
+        "totalDistance": 500,
+        "totalDodged": 8,
+        "totalNearMisses": 2,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [
+          1,
+          2
+        ],
+        "unlockedAchievements": [
+          "first-win"
+        ],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 4
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 300,
+          "highestWave": 4
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "G",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:24:29.749Z"
+    },
+    "alpha_260909155444": {
+      "username": "Alpha_260909155444",
+      "playerId": "HR-03C6A467",
+      "passwordHash": "2e8ad567254ac6fc5288a75fd55ee88c:70be6435e24953316213583f1fc0f1cec81ae5b9d7bb742e7622912a5be8d6121b323c9880901016ac50e9ea9521c32bd8f0bec164b7619de03c48188c969cbd",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "A",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:24:45.353Z"
+    },
+    "bravo_260909155444": {
+      "username": "Bravo_260909155444",
+      "playerId": "HR-877BEC6A",
+      "passwordHash": "737d7d8a09b82e864c0cd0f48b093171:af65574098aec271969038dfdbe76d68524e8f01e766c992266c7f2c1366bfc6982d27793063161ff2885aa8f8f9be70f53802fc3ab0c3ead2154761da73af10",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "B",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:24:50.172Z"
+    },
+    "authpassa": {
+      "username": "AuthPassA",
+      "playerId": "HR-AD0FAE06",
+      "passwordHash": "92beea8b469732def806cee2698fb2cc:a916f818f3f02685ec3d6ae402089b70b18edfd35fe80463d87f0af2f8cdc3275267ee0d54b36c477ea6bed9d1f10ad92d914112bd2d633b0520414e37e57ccb",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "A",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:27:12.912Z"
+    },
+    "authpassb": {
+      "username": "AuthPassB",
+      "playerId": "HR-4948433E",
+      "passwordHash": "14278384819c97a593bb7b59c9236840:74284663317413eaf95223bb8bf2845d23cb587849e831fd37b90b5b457d062d28210b138dbd176f863f93ef97a91a8c2d9770a3eeb66dff93a5097cae2bcdbd",
+      "save": {
+        "coins": 0,
+        "bestScore": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [],
+        "unlockedAchievements": [],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "A",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:27:24.509Z"
+    },
+    "secondpassusera": {
+      "username": "SecondPassUserA",
+      "playerId": "HR-FDA71FE6",
+      "passwordHash": "d7e8d0c976fc680bfa5c8e11e2ac15c8:976be18b5e25866e9138e9d02835f17ccec0f65bb5f81391a0e491f5be94fd66bb9a77b396327a5d348f1fc4c63f74c3e83055b8c1d23b59d0da7abc16dab140",
+      "save": {
+        "coins": 300,
+        "bestScore": 4100,
+        "totalDistance": 12000,
+        "totalDodged": 30,
+        "totalNearMisses": 8,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01",
+          "car_02",
+          "car_03"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "unlockedAchievements": [
+          "starter",
+          "speedster"
+        ],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 5
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 5200,
+          "highestWave": 12
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "S",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:27:55.716Z"
+    },
+    "secondpassuserb": {
+      "username": "SecondPassUserB",
+      "playerId": "HR-B6A67FC6",
+      "passwordHash": "10a1a118235b31d0e459ca52a4fb72f5:1c78230365d93cf29ec8df96ce48bc89cfa4204c40c1f45ec3878b3beced7a69944d4ee1f00d89ba7246215a1cb76e835c6b4621981ac1465e2c91d66f747b05",
+      "save": {
+        "coins": 75,
+        "bestScore": 900,
+        "totalDistance": 3500,
+        "totalDodged": 5,
+        "totalNearMisses": 1,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [
+          1
+        ],
+        "unlockedAchievements": [
+          "starter"
+        ],
+        "settings": {
+          "sound": false,
+          "music": true,
+          "shake": true,
+          "weather": false,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 1200,
+          "highestWave": 4
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "S",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:27:55.922Z"
+    },
+    "secondpasstransfer": {
+      "username": "SecondPassTransfer",
+      "playerId": "HR-CBF77C7E",
+      "passwordHash": "36959e7c27e1d370d22294bfac958322:64bdb79c4df98c70ad9c6d5e57c22e28b6f1f3b5ce73a9be410f1d0dbf3dc29a0236c9b5314d4d29f25952467ee0d2342e0cc878faf4422fc28a3f7b398553c5",
+      "save": {
+        "coins": 42,
+        "bestScore": 1200,
+        "totalDistance": 500,
+        "totalDodged": 8,
+        "totalNearMisses": 2,
+        "selectedCarId": "car_01",
+        "unlockedCars": [
+          "car_01"
+        ],
+        "activeMissionId": 1,
+        "completedMissions": [
+          1,
+          2
+        ],
+        "unlockedAchievements": [
+          "first-win"
+        ],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 4
+        },
+        "leaderboard": [
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 300,
+          "highestWave": 4
+        }
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "S",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:27:57.261Z"
+    },
+    "zeeshan": {
+      "username": "Zeeshan",
+      "playerId": "HR-385943F0",
+      "passwordHash": "37df63656854c49a345020fed8c334cd:70ecb9a6518bf5d791d5e5606c73bce9e86a66f6dd73d1bdcbaeaa025269669296363d19983c8b5d8ae5d91a5ff3e34c684681ce9541e1c086a3321bca2d5b81",
+      "save": {
+        "coins": 135,
+        "bestScore": 244777,
+        "totalDistance": 16203.999672199603,
+        "totalDodged": 92,
+        "totalNearMisses": 27,
+        "selectedCarId": "car_03",
+        "unlockedCars": [
+          "car_01",
+          "car_03"
+        ],
+        "activeMissionId": 4,
+        "completedMissions": [
+          1,
+          2,
+          3
+        ],
+        "unlockedAchievements": [
+          "first_drive",
+          "speed_demon",
+          "perfect_run",
+          "highway_legend",
+          "long_haul",
+          "traffic_master",
+          "lane_master",
+          "near_miss_king"
+        ],
+        "settings": {
+          "sound": true,
+          "music": true,
+          "shake": true,
+          "weather": true,
+          "sensitivity": 3
+        },
+        "leaderboard": [
+          {
+            "name": "STREET",
+            "score": 244777,
+            "date": "2026-09-08"
+          },
+          {
+            "name": "VIPER",
+            "score": 25000,
+            "date": "2026-01-10"
+          },
+          {
+            "name": "STREET",
+            "score": 20683,
+            "date": "2026-09-08"
+          },
+          {
+            "name": "APEX",
+            "score": 18400,
+            "date": "2026-02-01"
+          },
+          {
+            "name": "GHOST",
+            "score": 12100,
+            "date": "2026-02-14"
+          },
+          {
+            "name": "STREET",
+            "score": 11224,
+            "date": "2026-09-08"
+          },
+          {
+            "name": "TURBO",
+            "score": 7500,
+            "date": "2026-02-20"
+          },
+          {
+            "name": "ROOKIE",
+            "score": 3000,
+            "date": "2026-02-25"
+          }
+        ],
+        "space": {
+          "bestScore": 0,
+          "highestWave": 0
+        },
+        "totalScore": 278759
+      },
+      "level": 1,
+      "xp": 0,
+      "axPoints": 0,
+      "avatar": "Z",
+      "missions": [],
+      "achievements": [],
+      "stats": {
+        "gamesPlayed": 0,
+        "totalCoinsEarned": 0,
+        "totalDistance": 0,
+        "totalDodged": 0,
+        "totalNearMisses": 0,
+        "bestScore": 0,
+        "highestWave": 0
+      },
+      "settings": {
+        "sound": true,
+        "music": true,
+        "shake": true,
+        "weather": true,
+        "sensitivity": 3
+      },
+      "createdAt": "2026-09-09T10:30:18.631Z"
+    }
+  },
+  "leaderboard": [
+    {
+      "playerId": "HR-22FA6715",
+      "username": "Pilot9028",
+      "highwayScore": 1200,
+      "spaceScore": 3400,
+      "totalScore": 4600
+    },
+    {
+      "playerId": "HR-F5E255A1",
+      "username": "zsgaming",
+      "highwayScore": 0,
+      "spaceScore": 0,
+      "totalScore": 0
+    },
+    {
+      "playerId": "HR-FDA71FE6",
+      "username": "SecondPassUserA",
+      "highwayScore": 4100,
+      "spaceScore": 5200,
+      "totalScore": 9300
+    },
+    {
+      "playerId": "HR-B6A67FC6",
+      "username": "SecondPassUserB",
+      "highwayScore": 900,
+      "spaceScore": 1200,
+      "totalScore": 2100
+    }
+  ]
+}
